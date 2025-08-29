@@ -158,7 +158,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Krishnendu CJ**
 - Portfolio: [krishnendu-portfolio.vercel.app](https://krishnendu-portfolio.vercel.app)
 - GitHub: [@krishnendu2909](https://github.com/krishnendu2909)
-- LinkedIn: [Krishnendu CJ](https://linkedin.com/in/krishnendu-cj)
+- LinkedIn: [Krishnendu CJ](https://www.linkedin.com/in/krishnenducj/)
 
 ---
 
